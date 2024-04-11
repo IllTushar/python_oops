@@ -5,7 +5,7 @@ if __name__ == '__main__':
     car = CarDetails("Tata", "Safari", 4, 3)
     print(car.print_car())
 # print(f"Brand:  {car.brand}")
-# print(f"Model:  {car.model}")
+# print(f"DB_Design:  {car.model}")
 #
 
 # Polymorphism example
